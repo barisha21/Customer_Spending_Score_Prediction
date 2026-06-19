@@ -205,4 +205,6 @@ These artifacts are reused during prediction and deployment.
 
 ## Author
 
-Machine Learning Project developed as part of Full Stack Internship and Machine Learning Practice.
+Barisha
+
+Machine Learning Project developed as part of a Full Stack Internship, focusing on Customer Spending Score Prediction using Data Analysis, Feature Engineering, Machine Learning, and Streamlit Deployment.
